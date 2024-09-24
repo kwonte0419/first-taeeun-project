@@ -11,5 +11,6 @@ int main(){
         cout <<word<< " ";
 
     }
+    cout<<"ohsodmd  quffn";
     cout<<endl;
 }
